@@ -3,9 +3,19 @@
 body {
 	background-color: #27AE60;
 	font-family: 'Inter UI', sans-serif;
+	color: #F2F2F2;
 }
 
 .quote {
 	font-size: 36px;
 	font-style: italic;
+}
+
+.author {
+	font-size: 24px;
+}
+
+.author a {
+	text-decoration: underline;
+	color: #F2F2F2;
 }
