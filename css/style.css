@@ -6,9 +6,12 @@ body {
 	color: #F2F2F2;
 }
 
+.quote-block {
+}
+
 .quote {
-	font-size: 36px;
 	font-style: italic;
+	font-size: 36px;
 }
 
 .author {
