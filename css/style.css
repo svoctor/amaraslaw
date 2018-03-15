@@ -8,13 +8,14 @@ body {
 
 .quote-block {
 	margin: 0 auto;
-	width: 50%;
+	width: 55%;
 	padding-top: 20%;
 }
 
 .quote {
 	font-style: italic;
 	font-size: 36px;
+	margin-bottom: 25px;
 }
 
 .author {
