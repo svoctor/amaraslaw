@@ -1,0 +1,10 @@
+@import url('https://rsms.me/inter/inter-ui.css');
+
+body {
+	background-color: #27AE60;
+	font-family: 'Inter UI', sans-serif;
+}
+
+.quote {
+	font-size: 36px;
+	font-style: italic;
